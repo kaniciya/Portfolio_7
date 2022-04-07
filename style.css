@@ -211,10 +211,10 @@ section .title span::after{
   width: 45%;
 }
 .about .left img{
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 16px;
 }
 .about-details .right{
   width: 55%;
